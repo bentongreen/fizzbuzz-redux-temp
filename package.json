@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz-redux__w5-a4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentongreen/fizzbuzz-redux__W5-A4.git"
+  },
+  "author": "Benton Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bentongreen/fizzbuzz-redux__W5-A4/issues"
+  },
+  "homepage": "https://github.com/bentongreen/fizzbuzz-redux__W5-A4#readme"
+}
